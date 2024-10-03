@@ -1,5 +1,5 @@
 # Audiobooks Project Summer 2024
-Decoding Narrator Identity: ML Approaches to Audiobook Classification 
+Decoding Narrator Identity: Machine Learning Approaches to Audiobook Classification 
 
 ## Project Team
 
